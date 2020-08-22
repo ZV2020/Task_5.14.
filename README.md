@@ -1,10 +1,10 @@
 # Инструкция по работе с GIT
 
-LICENSE: [MIT](ADDONS\LICENSE.md)
+LICENSE: [MIT](ADDONS/LICENSE.md)
 
 ---
 
-![LOGO](ADDONS\Git-Logo-1788C.png)
+![LOGO](ADDONS/Git-Logo-1788C.png)
 
 *GIT Logo* [git-scm.com](https://git-scm.com/downloads/logos)
 
