@@ -13,7 +13,7 @@ LICENSE: [MIT](/ADDONS/License.md)
 ## Содержание
 
 ### 1. *Основные команды*
-* [git add](CONTENT\add.md)
+* [git add](CONTENT/add.md)
 * [git init](CONTENT\init.md)
 * [git commit](CONTENT\commit.md) 
 
