@@ -13,21 +13,21 @@ LICENSE: [MIT](/ADDONS/License.md)
 ## Содержание
 
 ### 1. *Основные команды*
-* git add
-* git init
-* git commit 
+* [git add](CONTENT\add.md)
+* [git init](CONTENT\init.md)
+* [git commit](CONTENT\commit.md) 
 
 ### 2. *Ветвление и слияние*
-* git branch
-* git merge
-* git log
-* git show
-* git diff
+* [git branch](CONTENT\branch.md)
+* [git merge](CONTENT\merge.md)
+* [git log](CONTENT\log.md)
+* [git show](CONTENT\show.md)
+* [git diff](CONTENT\diff.md)
 
 ### 3. *Совместная работа и обнавление*
-* git fetch
-* git pull
-* git push
+* [git fetch](CONTENT\fetch.md)
+* [git pull](CONTENT\pull.md)
+* [git push](CONTENT\push.md)
 
 
 
