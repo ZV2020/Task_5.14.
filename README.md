@@ -14,20 +14,20 @@ LICENSE: [MIT](/ADDONS/License.md)
 
 ### 1. *Основные команды*
 * [git add](CONTENT/add.md)
-* [git init](CONTENT\init.md)
-* [git commit](CONTENT\commit.md) 
+* [git init](CONTENT/init.md)
+* [git commit](CONTENT/commit.md) 
 
 ### 2. *Ветвление и слияние*
-* [git branch](CONTENT\branch.md)
-* [git merge](CONTENT\merge.md)
-* [git log](CONTENT\log.md)
-* [git show](CONTENT\show.md)
-* [git diff](CONTENT\diff.md)
+* [git checkout](CONTENT/checkout.md)
+* [git merge](CONTENT/merge.md)
+* [git log](CONTENT/log.md)
+* [git show](CONTENT/show.md)
+* [git diff](CONTENT/diff.md)
 
 ### 3. *Совместная работа и обновление*
-* [git fetch](CONTENT\fetch.md)
-* [git pull](CONTENT\pull.md)
-* [git push](CONTENT\push.md)
+* [git fetch](CONTENT/fetch.md)
+* [git pull](CONTENT/pull.md)
+* [git push](CONTENT/push.md)
 
 
 
