@@ -24,7 +24,7 @@ LICENSE: [MIT](/ADDONS/License.md)
 * [git show](CONTENT\show.md)
 * [git diff](CONTENT\diff.md)
 
-### 3. *Совместная работа и обнавление*
+### 3. *Совместная работа и обновление*
 * [git fetch](CONTENT\fetch.md)
 * [git pull](CONTENT\pull.md)
 * [git push](CONTENT\push.md)
