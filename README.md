@@ -1,6 +1,6 @@
 # Инструкция по работе с GIT
 
-LICENSE: [MIT](/License.md)
+LICENSE: [MIT](./License.md)
 
 ---
 
